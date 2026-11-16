@@ -1,0 +1,67 @@
+{
+  "1571890163418792039": {
+    "logChannel": "1571893918377709720",
+    "warns": {},
+    "welcome": {
+      "enabled": true,
+      "channel": "1571890164387811421",
+      "message": "Bienvenue {user} sur **{server}** n'hésite pas a envoyé ton premier message ! Nous sommes maintenant {count} membres.",
+      "embed": true,
+      "color": "#57F287"
+    },
+    "goodbye": {
+      "enabled": false,
+      "channel": null,
+      "message": "**{username}** a quitté **{server}**. À bientôt !",
+      "embed": true,
+      "color": "#ED4245"
+    },
+    "tickets": {
+      "logChannel": null,
+      "counter": 0,
+      "panel": {
+        "title": "🎫 Support",
+        "description": "Clique sur le bouton ci-dessous pour ouvrir un ticket.",
+        "color": "#5865F2",
+        "button": "Ouvrir un ticket"
+      },
+      "roles": [
+        "1571890163855130694",
+        "1571890163855130695",
+        "1571890163855130696"
+      ],
+      "panelChannel": "1571890165884919916",
+      "parentCategory": "1571890165884919915"
+    },
+    "reactionRoles": {
+      "channel": "1571890164387811424",
+      "panelMessageId": "1571907100337250437",
+      "selectedRole": null,
+      "mappings": {},
+      "panelChannel": "1571890164387811424",
+      "roles": [
+        "1571890163418792043",
+        "1571890163418792042"
+      ]
+    },
+    "giveaways": {
+      "1571909717889126646": {
+        "messageId": "1571909717889126646",
+        "channelId": "1571890164387811427",
+        "prize": "un nitro 1 mois",
+        "hostId": "1194721179672518789",
+        "winnerCount": 1,
+        "endsAt": 1794842891269,
+        "entrants": [
+          "1194721179672518789",
+          "1322646051303460874"
+        ],
+        "winners": [
+          "1194721179672518789"
+        ],
+        "ended": true,
+        "endedAt": 1794842891274
+      }
+    }
+  }
+}
